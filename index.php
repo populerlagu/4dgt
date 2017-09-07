@@ -34,7 +34,7 @@
 	<input type="text" name="rename"  placeholder="Contoh: tools.php" class="form-control">
    </div>
    <div class="form-group">
-    <button type="submit" class="btn btn-primary">Insert Data</button>
+    <button type="submit" class="btn btn-primary" value="submit">Insert Data</button>
     <button type="reset" class="btn btn-danger">Reset</button>
    </div>
   </form>
