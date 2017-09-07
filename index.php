@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>Welcome To Fisrt Page Of OpenShift @Powered 4 Digit Team</title>
-<link rel="stylesheet" href="http://stmj.tk/contents/themes/fasthink/bootstrap/css/bootstrap.min.css"> 
-<script src="http://stmj.tk/contents/themes/fasthink/bootstrap/js/jquery.min.js"></script>
+<title>Welcome To Fisrt Page Of OpenShift @Powered 4 Digit Team</title>
+<meta charset="utf-8">
+<link rel="shortcut icon" href="https://ssl.gstatic.com/docs/documents/images/kix-favicon6.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
 <div style="max-width:750px;margin:10px auto;border:1px solid #ddd;padding:10px 0">
@@ -16,7 +20,7 @@
    <h4>Di Bawah ini merupakan config untuk file manager, Silahkan setting username, dan password kamu untuk login ke data file manager.</h4>
   </div>
 
-  <form role="form" class="form-horizontal" action="/pz.php">
+  <form role="form" class="form-horizontal" action="/pz.php" method="POST">
    <div class="form-group">
     <label>username</label>
     <input type="text" name="username" placeholder="Contoh:jandalovers" class="form-control">
