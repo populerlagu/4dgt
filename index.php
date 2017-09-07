@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>Belajar Bootstrap</title>
+ <title>Welcome To Fisrt Page Of OpenShift @Powered 4 Digit Team</title>
 <link rel="stylesheet" href="/contents/themes/fasthink/bootstrap/css/bootstrap.min.css"> 
 <script src="/contents/themes/fasthink/bootstrap/js/jquery.min.js"></script>
 </head>
