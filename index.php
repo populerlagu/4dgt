@@ -2,8 +2,8 @@
 <html>
 <head>
  <title>Welcome To Fisrt Page Of OpenShift @Powered 4 Digit Team</title>
-<link rel="stylesheet" href="/contents/themes/fasthink/bootstrap/css/bootstrap.min.css"> 
-<script src="/contents/themes/fasthink/bootstrap/js/jquery.min.js"></script>
+<link rel="stylesheet" href="http://stmj.tk/contents/themes/fasthink/bootstrap/css/bootstrap.min.css"> 
+<script src="http://stmj.tk/contents/themes/fasthink/bootstrap/js/jquery.min.js"></script>
 </head>
 <body>
 <div style="max-width:750px;margin:10px auto;border:1px solid #ddd;padding:10px 0">
