@@ -27,11 +27,11 @@
    </div>
    <div class="form-group">
     <label>Password</label>
-    <input type="text" name="password" placeholder="Password" class="form-control">
+    <input type="password" name="password" placeholder="Password" class="form-control">
    </div>
    <div class="form-group">
     <label>Password Again</label>
-    <input type="text" name="repassword" placeholder="Password Mane" class="form-control">
+    <input type="password" name="repassword" placeholder="Password Mane" class="form-control">
    </div>
    <div class="form-group">
     <label>Create file manager</label>
